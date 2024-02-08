@@ -9,6 +9,7 @@ Quality Assurance analyst with a passion for cybersecurity and salesforce
 * ✉️  You can contact me at [traices1@gmail.com](mailto:traices1@gmail.com)
 * 🧠  I'm learning how to code, build AI, and perfect the art of QA
 * 🤝  I'm open to collaborating on QA, Salesforce, Dev, Networking
+* ⚡SalesforceTrailhead Profile <a href="https://www.salesforce.com/trailblazer/traices"> here </a>
 
 ### Skills
 
