@@ -1,7 +1,7 @@
 Hi 👋 My name is Trev Raices
 ============================
 
-Quality Assurance analyst with a passion for cybersecurity and salesforce
+Quality Assurance analyst with a passion for Salesforce & Cybersecurity
 -------------------------------------------------------------------------
 
 💡 I’m currently working on a QA/Salesforce Lightning Implementation project & digging into the world of AI
